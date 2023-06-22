@@ -1,4 +1,4 @@
-## Hey guys, my name is Adauto, I'm a Developer Java, but one day, I be FullStack Developer.
+## Hey guys, my name is Adauto, I'm a Software Developer.
 <div align="center">
   <a href="https://github.com/adautodf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adautodf&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
