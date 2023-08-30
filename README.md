@@ -7,12 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adautodf&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
-[![Adauto github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adautodf&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adautodf&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adautodf&theme=dracula&row=2&no-bg=true&column=3&margin-w=30&margin-h=30" />
 </p>
-
+<br>
 <div align="center">  
 <a href="https://www.linkedin.com/in/adautodf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://my-website-adautodf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/My_Website-0042FF?style=for-the-badge&logo=website&logoColor=white"</a>
