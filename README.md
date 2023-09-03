@@ -9,17 +9,14 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adautodf&theme=dracula&row=2&no-bg=true&column=3&margin-w=30&margin-h=30" />
-</p>
 <br>
+
 <div align="center">  
 <a href="https://www.linkedin.com/in/adautodf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://my-website-adautodf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/My_Website-0042FF?style=for-the-badge&logo=website&logoColor=white"</a>
 <a href="https://www.instagram.com/adautodf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BD00FF?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
 ![React](https://img.shields.io/badge/React-0096FF?style=for-the-badge&logo=react&logoColor=white)&nbsp; 
@@ -45,10 +42,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=grey)&nbsp; 
 ![Flask](https://img.shields.io/badge/Flask-EE4B2B?style=for-the-badge&logo=flask&logoColor=white)&nbsp; 
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{adautodf}/count.svg" /></p> 
-<br></div>
+
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
