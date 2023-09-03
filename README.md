@@ -1,48 +1,44 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" width="30px"> Olá, eu sou o Adauto, desenvolvedor Fullstack e sou altamente apaixonado por tecnologia!</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/adautodf/"><img src="https://img.shields.io/badge/-@adautodf-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@adautodf"><img src="https://img.shields.io/badge/-Adauto Filho-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://https://my-website-adautodf.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://instagram.com/adautodf"><img src="https://img.shields.io/badge/-@adautodf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:adautodortafilho@gmail.com"><img src="https://img.shields.io/badge/-adautodortafilho@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Adauto;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> About Me </h2>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adautodf&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="adautodf github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adautodf&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
-</div>
-
-<br>
-
-<br>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/adautodf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://my-website-adautodf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/My_Website-0042FF?style=for-the-badge&logo=website&logoColor=white"</a>
-<a href="https://www.instagram.com/adautodf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-BD00FF?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-### Main skills:
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
-![React](https://img.shields.io/badge/React-0096FF?style=for-the-badge&logo=react&logoColor=white)&nbsp; 
-![Typescript](https://img.shields.io/badge/Typescript-2453F3?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
-![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; 
-![Next](https://img.shields.io/badge/Next-0F0F0F?style=for-the-badge&logo=next&logoColor=white)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+- 💙 &nbsp; Hoje, além de ser programador, crio conteúdo para o Youtube. Fico muito feliz quando consigo ajudar e influenciar positivamente alguém, e, por isso, faço o que faço.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Atualmente, as linguagens que mais possuo domínio é Java, Pyhton, Typescript e Javascript. Frameworks: React, Flask, Next e Angular.
+- ✝️ &nbsp; Cristão, filho de Deus. Amo buscar ao Senhor e dar o meu melhor em tudo que eu faço. "Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens, sabendo que receberão do Senhor a recompensa da herança. É a Cristo, o Senhor, que vocês estão servindo." Colossenses 3:23-24. Acredito que se eu for excelente no que eu faço, estarei honrando a Deus com isso!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Racing%20Car.png" alt="Racing Car" width="20" height="20" /> Sou apaixonado por supercarros, especialmente porsche, amo falar com meus amigos sobre isso. E também, amo sair com a galera e bater um papo sobre a vida, principalmente assuntos sobre desenvolvimento pessoal e negócios, isso é o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 💵 &nbsp; Também gosto muito sobre empreendedorismo, negócios e investimentos.
 
 
-### Tools:
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-8300FF?style=for-the-badge&logo=intellij-idea&logoColor=8300FF&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Back-end e banco de dados:</h3>
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=cSharp)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
-### Other Knowledge:
-![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Um pouco mais sobre o meu perfil</h2>
 
-  
-### Studying in this moment:
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=grey)&nbsp; 
-![Flask](https://img.shields.io/badge/Flask-EE4B2B?style=for-the-badge&logo=flask&logoColor=white)&nbsp; 
-
-
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+![Adauto Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adautodf&show_icons=true&theme=dracula)
