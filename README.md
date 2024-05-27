@@ -1,7 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" width="30px"> Olá, eu sou o Adauto, desenvolvedor Fullstack e sou altamente apaixonado por tecnologia!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/adautodf/"><img src="https://img.shields.io/badge/-@adautodf-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://https://my-website-adautodf.vercel.app"><img src="https://img.shields.io/badge/-portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://instagram.com/adautodf"><img src="https://img.shields.io/badge/-@adautodf_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:adautodortafilho@gmail.com"><img src="https://img.shields.io/badge/-adautodortafilho@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
