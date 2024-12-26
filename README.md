@@ -15,18 +15,13 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Back-end e banco de dados:</h3>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Um pouco mais sobre o meu perfil</h2>
 
 ![Adauto Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adautodf&show_icons=true&theme=dracula)
