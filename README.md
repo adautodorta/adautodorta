@@ -24,4 +24,3 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-![Adauto Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adautodf&show_icons=true&theme=dracula)
